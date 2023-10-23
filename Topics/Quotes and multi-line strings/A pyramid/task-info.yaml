@@ -1,0 +1,14 @@
+type: code
+custom_name: A pyramid!
+files:
+  - name: main.py
+    visible: true
+    text: print(...)
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6892#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 22 Oct 2023 03:23:56 UTC"
+record: -1
+submission_language: python3
