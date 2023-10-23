@@ -324,8 +324,5 @@ files:
           Zookeeper('zookeeper.zookeeper').run_tests()
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/8818#comment
-status: Failed
-feedback:
-  message: Error
-  time: "Mon, 23 Oct 2023 05:20:26 UTC"
+status: Solved
 record: -1
